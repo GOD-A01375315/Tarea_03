@@ -7,7 +7,7 @@ Consulta el documento anexo con la descripción de los problemas que debes resol
 Recuerda:
 * Hacer fork al proyecto.
 * Hacer Check out del proyecto desde Pycharm.
-* Creat archivos .py para resolver cada problema.
+* Crear archivos .py para resolver cada problema.
 * Subir los programas a tu proyecto en github (commit & push).
 * Abrir el Pull Request para que te califique.
 
